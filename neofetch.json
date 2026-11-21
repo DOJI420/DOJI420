@@ -22,7 +22,7 @@
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "{{email}}" },
+        { "key": "Email", "value": "yahyagm144@gmail.com" },
         { "key": "GitHub", "value": "://github.com{{username}}" }
       ]
     }
