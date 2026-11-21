@@ -28,8 +28,7 @@
       "title": "- Contact",
       "fields": [
         { "key": "Email", "value": "yahyagm144@gmail.com" },
-        { "key": "Website", "value": "https://github.com/{{username}}" },
-        { "key": "Intra42", "value": "profile.intra.42.fr/users/yibn-yah" }
+        { "key": "Website", "value": "https://github.com/{{username}}" }
       ]
     }
   ],
