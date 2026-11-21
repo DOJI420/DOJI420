@@ -1,45 +1,45 @@
 {
-  "image": "https://github.com/DOJI420/DOJI420/blob/main/hcfiuikc.png?raw=true",
+  "image": "https://://github.com",
   "coloredImage": true,
   "sections": [
     {
       "title": "{{username}}@github",
       "fields": [
-        { "key": "OS", "value": "Windows 11, Linux" },
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Location", "value": "{{location}}" },
+        { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "IDE", "value": "VSCode" }
+        { "key": "Company", "value": "{{company}}" }
       ]
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}}" }
+        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "IDE", "value": "Cursor, VSCode, Neovim" }
       ]
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "Web Dev, Scripting" },
-        { "key": "Hobbies.Hardware", "value": "PC Building" }
+        { "key": "Hobbies.Software", "value": "WebGL, WebGPU, AI/ML" },
+        { "key": "Hobbies.Hardware", "value": "Mechanical Keyboards" }
       ]
     },
     {
       "title": "- Contact",
       "fields": [
         { "key": "Email", "value": "yahyagm144@gmail.com" },
-        { "key": "GitHub", "value": "://github.com{{username}}" }
+        { "key": "Website", "value": "https:// github.com/{{username}}" },
+        { "key": "Twitter", "value": "{{twitter}}" }
       ]
     }
   ],
   "stats": {
     "title": "- GitHub Stats",
     "rows": [
-      {
-        "left": { "key": "Repos", "value": "{{repos}}" },
-        "right": { "key": "Stars", "value": "{{stars}}" }
-      },
-      {
-        "left": { "key": "Commits", "value": "{{commits}}" },
-        "right": { "key": "Followers", "value": "{{followers}}" }
-      },
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "PRs", "value": "{{prs}}" } },
       "loc"
     ]
   }
