@@ -29,7 +29,7 @@
       "fields": [
         { "key": "Email", "value": "yahyagm144@gmail.com" },
         { "key": "Website", "value": "https://github.com/{{username}}" },
-        { "key": "Twitter", "value": "{{twitter}}" }
+        { "key": "Intra42", "value": "https://profile.intra.42.fr/users/yibn-yah" }
       ]
     }
   ],
