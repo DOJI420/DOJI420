@@ -1,4 +1,9 @@
 {
+  {
+  "image": "https:// ://githubusercontent.com",
+  "coloredImage": true,
+  "sections": [
+
   "sections": [
     {
       "title": "{{username}}@github",
