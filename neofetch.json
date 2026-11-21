@@ -6,10 +6,10 @@
       "title": "{{username}}@github",
       "fields": [
         { "key": "Name", "value": "{{name}}" },
-        { "key": "Location", "value": "{{location}}" },
+        { "key": "Location", "value": "MOROCCO" },
         { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "Company", "value": "{{company}}" }
+        { "key": "School", "value": "1337" }
       ]
     },
     {
