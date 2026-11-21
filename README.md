@@ -1,1 +1,1 @@
-![Neofetch Stats](https://vercel.app=DOJI420)
+![Neofetch Stats](https:// neofetch-profile.vercel.app/api?username=DOJI420)
