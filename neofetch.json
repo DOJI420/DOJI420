@@ -1,0 +1,44 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "OS", "value": "Windows 11, Linux" },
+        { "key": "Uptime", "value": "{{uptime}}" },
+        { "key": "IDE", "value": "VSCode" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages", "value": "{{languages}}" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Hobbies.Software", "value": "Web Dev, Scripting" },
+        { "key": "Hobbies.Hardware", "value": "PC Building" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "{{email}}" },
+        { "key": "GitHub", "value": "://github.com{{username}}" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      {
+        "left": { "key": "Repos", "value": "{{repos}}" },
+        "right": { "key": "Stars", "value": "{{stars}}" }
+      },
+      {
+        "left": { "key": "Commits", "value": "{{commits}}" },
+        "right": { "key": "Followers", "value": "{{followers}}" }
+      },
+      "loc"
+    ]
+  }
+}
